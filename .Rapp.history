@@ -1,0 +1,5 @@
+source("ProgrammingAssignment2/cachematrix.R")
+getwd()
+source("/Users/cassieleong/Desktop/ProgrammingAssignment2/cachematrix.R")
+traceback()
+debug()
